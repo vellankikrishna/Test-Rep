@@ -1,0 +1,20 @@
+Git and Harvest
+http://git-scm.com/documentation
+
+http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+
+
+
+http://courses.cs.washington.edu/courses/cse370/DDOR/Web/Learned/SSafe/BasicUse/
+
+http://msdn.microsoft.com/en-US/library/3h0544kx(v=vs.80).aspx
+
+http://msdn.microsoft.com/en-US/library/wa77s8c0(v=vs.80).aspx
+
+http://en.wikipedia.org/wiki/AccuRev_SCM
+
+
+https://in.finance.yahoo.com/news/india-china-sign-feasibility-study-062456218.html
+
+
+http://usgsharepoint/usg/unitrin/IT/tools/Git/Home.aspx
